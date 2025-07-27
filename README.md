@@ -11,7 +11,7 @@
 - **Agile frameworks**: Scrum, Kanban
 
 ### Share same profile or work together? Contact me and let's hang on!
-Send your message via [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+Send your message via [LinkedIn](https://www.linkedin.com/in/salvador-info)
 
 ### 🛠 &nbsp;Tech Stack
 
