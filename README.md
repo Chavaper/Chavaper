@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Chavaper</h1>
+<h3 align="center">By Salvador Sánchez</h3>
 
-<!--
-**Chavaper/Chavaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hi! I'm Salvador 👋 (Chavaper for devs 😅). Currently I study Informatics Engineering at PUCP, Peru. I have developed with great teams at uni some applications applying our lessons on classes and by searching by ourselves some details we couldn't know by the time, like any software developer, isn't it? 😂. I feel that being part of this kind of work, you can further your soft skills such as leadership, critical thinking, teamwork and patience, given that we do not work with machines, **we work with humans**!
 
-Here are some ideas to get you started:
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas which interested me most:
+- **Software development**: Backend, algorithms, data structures, VBA. <br>
+- **Project management**: Doing software projects under international standards (IEEE 830-1998, ISO 29148-2018)
+- **Agile frameworks**: Scrum, Kanban
+
+### Share same profile or work together? Contact me and let's hang on!
+Send your message via [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![VBA](https://img.shields.io/badge/VBA-%236B9ACD.svg?style=for-the-badge&logo=microsoft&logoColor=blue)&nbsp;
+
+### 🗃 &nbsp;Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+
+
+### 🧰 &nbsp;Version Controll & Tools 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=pink)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
