@@ -7,7 +7,7 @@
 
 ### 🔍 Areas which interested me most:
 - **Software development**: Backend, algorithms, data structures, VBA. <br>
-- **Project management**: Doing software projects under international standards (IEEE 830-1998, ISO 29148-2018)
+- **Project management**: Managing software projects under standards IEEE 830-1998, ISO 29148-2018
 - **Agile frameworks**: Scrum, Kanban
 
 ### Share same profile or work together? Contact me and let's hang on!
