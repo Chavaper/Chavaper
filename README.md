@@ -1,7 +1,7 @@
 <h1 align="center">Chavaper</h1>
 <h3 align="center">By Salvador Sánchez</h3>
 
-¡Hi! I'm Salvador 👋 (Chavaper for devs 😅). Currently I study Informatics Engineering at PUCP, Peru. I have developed with great teams at uni some applications applying our lessons on classes and by searching by ourselves some details we couldn't know by the time, like any software developer, isn't it? 😂. I feel that being part of this kind of work, you can further your soft skills such as leadership, critical thinking, teamwork and patience, given that we do not work with machines, **we work with humans**!
+¡Hi! I'm Salvador 👋 (Chavaper for devs 😅). Currently I study Informatics Engineering at PUCP, Peru. I have developed with great teams at uni some applications applying our lessons on classes and by searching by ourselves some details we couldn't know by the time, like any dev, isn't it? 😂
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
